@@ -173,16 +173,16 @@ button:hover {
     /* flex-wrap: wrap; */
 }
 .blood_hands {
-    transform: scale(110%);
+    transform: scale(100%);
     transition-duration: 700ms;
 
 }
-/* .blood_hands:hover {
+.blood_hands:hover {
     transform: scale(110%);
     transition-duration: 700ms;
     transition-timing-function: ease-in-out steps(4, end)   ;
     
-} */
+}
 .header_container {
     /* border: solid; */
     width: 100%;
@@ -382,7 +382,7 @@ select {
     text-align: center;
     font-size: 35px;
     font-family: poppins;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .news_container {
     text-align: center;
