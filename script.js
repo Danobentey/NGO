@@ -1,4 +1,11 @@
-const changeEllipseColor = function() {
-    document.querySelectorjj
-} 
-document.querySelector(".box").addEventListner('click', changeEllipseColor)
+const box = document.querySelector('#box1')
+const ellipse = document.querySelector('#ellipse1')
+const ellipseColor = ellipse.style.backgroundColor
+
+box.addEventListener('mouseover', e => {
+ 
+})
+
+ 
+
+
